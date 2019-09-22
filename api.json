@@ -4,13 +4,13 @@
     "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
     "external_url": "https://openseacreatures.io/3", 
     "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png", 
-    "name": "Dave Starbelly",
+    "name": "Dave Starbelly"
   },
   {
     "id":2,
     "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
     "external_url": "https://openseacreatures.io/4", 
     "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/4.png", 
-    "name": "Dave Starbelly2",
+    "name": "Dave Starbelly2"
   }
 ]
